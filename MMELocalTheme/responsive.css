@@ -1,0 +1,617 @@
+@charset "utf-8";
+/* CSS Document */
+    @media only screen and (min-width: 320px) and (max-width: 480px) {
+ #header {
+ margin: auto;
+ width: 100%;
+}
+#header img {
+ width:100%;
+ height:auto;
+}
+#nav_m{   color: #FFFFFF;
+    display: block;
+    font-size: 16px; padding: 5px 0;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;}.menuu{ text-align:center; display:none; float:none;}
+.menu_mid {
+    background: none repeat scroll 0 0 #1969A5;
+    border-radius: inherit;    margin: 0 0 3px;
+    float: none;
+    width: 100%;
+}
+.social_icons {
+       float: none;
+    margin: auto;
+    padding-left: 0;
+    text-align: center;
+    width: 160px;
+}
+
+.slider {
+    border: none;
+    margin: auto;
+	
+    padding: 0;
+    width: 100%;
+}
+
+.container {
+      background: none repeat scroll 0 0 #FFFFFF;
+    margin: auto;
+    padding: 0;
+    width: 300px;
+}#wrapper {
+    margin: auto;
+    padding-bottom: 5px;
+    width: 100%;
+}.cont {
+     margin: auto;
+    padding-top: 5px;
+    width: 262px;
+}
+
+.about {
+    float: none;
+   width: 100%;  padding: 0 0 15px;
+}
+
+.areas {
+   float: none;
+   width: 100%;
+  padding: 0 0 15px;
+}
+.services {
+   float: none;
+   width: 100%;
+   padding: 0 0 15px;
+}
+.cont2 {
+      margin: auto;
+    padding: 10px 0;
+    width: 300px;
+   
+}
+
+.cont2left {
+     float: none;
+    padding: 0 5px;
+    width: 95%;
+}
+
+.cont2right {
+    float: none;
+    padding: 0 5px;
+    width: 95%;
+}
+
+.cosimage {
+       float: none;
+}
+.coscontent {
+    float: none;
+   width: 100%;
+}.ourservices {
+    padding: 10px 0;
+    width: 100%;
+}
+.services_left {
+    float: none;
+   width: 100%;
+}
+.services_left img{ width:100%;}
+.services_right {
+      float: none;
+}.footer {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: auto;
+    margin: auto;
+    padding: 15px 0;
+    width: 290px;
+}
+
+.footer_inner {
+    margin: auto;
+   padding: 10px 0;
+    margin: auto;
+   width: 100%;
+}
+.site_links {
+       float: none;
+   width: 100%;   padding: 0 0 10px;
+}
+
+.rcnt_posts {
+      float: none;
+   width: 100%;   padding: 0 0 10px;
+   padding:0;
+}
+
+.cntct_us {
+        float: none;
+   width: 100%;
+   padding:0;
+}
+
+.fotter_bottom {
+    margin: auto;
+   width: 100%;
+}
+.fotter_bottom p{   border-radius: inherit; text-align:center;   padding: 12px 0;}
+.menuu ul li{ float:none;  
+    list-style-type: none;
+    margin-left: 8px;
+    margin-right: 7px;
+    padding-bottom: 2px;
+    padding-top: 2px;}
+
+.menuu ul li:hover {
+    background:none;
+}.wpcf7-form textarea{ width:100%;}.navigation {
+  
+    padding: 0 0 20px;
+}
+     }
+/*44444444444444444444444444444444444444444*/
+      @media only screen and (min-width: 481px) and (max-width: 600px) { 
+ #header {
+ margin: auto;
+ width: 100%;
+}
+#header img {
+ width:100%;
+ height:auto;
+}
+#nav_m{   color: #FFFFFF;
+    display: block;
+    font-size: 16px; padding: 5px 0;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;}.menuu{ text-align:center; display:none; float:none;}
+.menu_mid {
+    background: none repeat scroll 0 0 #1969A5;
+    border-radius: inherit;
+    float: none;    margin: 0 0 3px;
+    width: 100%;
+}
+.social_icons {
+       float: none;
+    margin: auto;
+    padding-left: 0;
+    text-align: center;
+    width: 160px;
+}
+
+.slider {
+    border: none;
+    margin: auto;
+	
+    padding: 0;
+    width: 100%;
+}
+.welcome{ padding:0  10px;}
+.cont h2{ text-align:left;}
+
+.container {
+      background: none repeat scroll 0 0 #FFFFFF;
+    margin: auto;
+    padding: 0;
+       width: 100%;
+}#wrapper {
+    margin: auto;
+    padding-bottom: 5px;
+    width: 100%;
+}.cont {
+   margin: auto;
+    padding: 5px;
+    width: 95%;
+}
+
+.about {
+    float: none;
+   width: 100%;  padding: 0 0 15px 0px;
+}
+
+.areas {
+   float: none;
+   width: 100%;
+  padding: 0 0 15px 0px;
+}
+.services {
+   float: none;
+   width: 100%;
+   padding: 0 0 15px 0px;
+}
+.cont2 {
+      margin: auto;
+    padding: 10px 0;
+       width: 100%;
+   
+}
+
+.cont2left {
+     float: none;
+   width: 95%;
+   padding:0 10px;
+}
+
+.cont2right {
+      float: none;
+   width: 95%;
+   padding:0 10px;
+}
+
+.cosimage {
+       float: none;
+}
+.coscontent {
+    float: none;
+   width: 100%;
+}.ourservices {
+    padding: 10px 0;
+    width: 100%;
+}
+.services_left {
+    float: none;
+   width: 100%;
+}
+
+.services_right {
+      float: none;
+}.footer {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: auto;
+    margin: auto;
+    padding: 15px 0;
+    width: 290px;
+}
+
+.footer_inner {
+    margin: auto;
+   padding: 10px 0;
+    margin: auto;
+   width: 100%;
+}
+.site_links {
+       float: none;
+   width: 100%;   padding: 0 0 10px;
+}
+
+.rcnt_posts {
+      float: none;
+   width: 100%;   padding: 0 0 10px;
+   padding:0;
+}
+
+.cntct_us {
+        float: none;
+   width: 100%;
+   padding:0;
+}
+
+.fotter_bottom {
+    margin: auto;
+   width: 100%;
+}
+.fotter_bottom p{   border-radius: inherit; text-align:center;   padding: 12px 0;}
+.menuu ul li{ float:none;  
+    list-style-type: none;
+    margin-left: 8px;
+    margin-right: 7px;
+    padding-bottom: 2px;
+    padding-top: 2px;}
+
+.menuu ul li:hover {
+    background:none;
+}.wpcf7-form textarea{ width:100%;}
+.navigation {
+  
+    padding: 0 0 20px;
+}
+     }
+	/*44444444444444444444444444444444444444444*/
+
+      @media only screen and (min-width: 601px) and (max-width: 800px) { 
+ #header {
+ margin: auto;
+ width: 100%;
+}
+#header img {
+ width:100%;
+ height:auto;
+}
+#nav_m{   color: #FFFFFF;
+    display: block;
+    font-size: 16px; padding: 5px 0;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;}.menuu{ text-align:center; display:none; float:none;}
+.menu_mid {
+    background: none repeat scroll 0 0 #1969A5;
+    border-radius: inherit;
+    float: none;    margin: 0 0 3px;
+    width: 100%;
+}
+.social_icons {
+       float: none;
+    margin: auto;
+    padding-left: 0;
+    text-align: center;
+    width: 160px;
+}
+
+.slider {
+    border: none;
+    margin: auto;
+	
+    padding: 0;
+    width: 100%;
+}
+
+.container {
+     background: none repeat scroll 0 0 #FFFFFF;
+    margin: auto;
+    padding: 0 10px;
+    width: 96%;
+}#wrapper {
+    margin: auto;
+    padding-bottom: 5px;
+    width: 100%;
+}.cont {
+     margin: auto;
+    padding-top: 5px;
+    width: 100%;
+}
+
+.about {
+  /*  float: none;
+   width: 100%;*/  padding: 0 0 15px 15px;
+}
+
+.areas {
+   /*float: none;
+   width: 100%;*/
+  padding: 0 0 15px 15px;
+}
+.services {
+  
+   padding: 0 0 15px 15px;
+}
+.cont2 {
+      margin: auto;
+    padding: 10px 0;
+    width: 100%;
+   
+}
+
+.cont2left {
+     float: none;
+  width: 95%;
+   padding:0 10px;
+}
+
+.cont2right {
+      float: none;
+   width: 95%;
+   padding:0 10px;
+}
+
+.cosimage {
+       float: none;
+}
+.coscontent {
+    float: none;
+   width: 100%;
+}.ourservices {
+    padding: 10px 0;
+    width: 100%;
+}
+.services_left {
+  
+}
+
+.services_right {
+     
+}.footer {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: auto;
+    margin: auto;
+    padding: 15px 0;
+    width:100%;
+}
+
+.footer_inner {
+    margin: auto;
+   padding: 10px 0;
+    margin: auto;
+   width: 100%;
+}
+.site_links {
+        min-height: 160px;
+}
+
+.rcnt_posts {
+    min-height: 160px;
+}
+
+.cntct_us {
+   padding: 0 0 10px 18px
+}
+
+.fotter_bottom {
+    margin: auto;
+   width: 100%;
+}
+.fotter_bottom p{   border-radius: inherit; text-align:center;   padding: 12px 0;}
+.menuu ul li{ float:none;  
+    list-style-type: none;
+    margin-left: 8px;
+    margin-right: 7px;
+    padding-bottom: 2px;
+    padding-top: 2px;}
+
+.menuu ul li:hover {
+    background:none;
+}.navigation {
+  
+    padding: 0 0 20px;
+}
+     }
+	 /*44444444444444444444444444444444444444444*/
+
+      @media only screen and (min-width: 801px) and (max-width: 959px) { 
+ #header {
+ margin: auto;
+ width: 100%;
+}
+#header img {
+ width:100%;
+ height:auto;
+}
+#nav_m{   color: #FFFFFF;
+    display: block;
+    font-size: 16px; padding: 5px 0;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;}.menuu{ text-align:center; display:none; float:none;}
+.menu_mid {
+    background: none repeat scroll 0 0 #1969A5;
+    border-radius: inherit;
+    float: none;    margin: 0 0 3px;
+    width: 100%;
+}
+.social_icons {
+       float: none;
+    margin: auto;
+    padding-left: 0;
+    text-align: center;
+    width: 160px;
+}
+
+.slider {
+    border: none;
+    margin: auto;
+	
+    padding: 0;
+    width: 100%;
+}
+
+.container {
+      background: none repeat scroll 0 0 #FFFFFF;
+    margin: auto;
+    padding: 0;
+   width: 100%;
+}#wrapper {
+    margin: auto;
+    padding-bottom: 5px;
+    width: 100%;
+}.cont {
+     margin: auto;
+    padding-top: 5px;
+    width: 100%;
+}
+
+.about {
+  padding: 0 0 15px 10px;
+}
+
+.areas {
+ padding: 0 0 15px 10px;
+}
+.services {
+  padding: 0 0 15px 10px;
+}
+.cont2 {
+      margin: auto;
+    padding: 10px 0;
+   width: 100%;
+   
+}
+
+.cont2left {
+     float: none;
+   width: 95%;
+   padding:0 10px;
+}
+
+.cont2right {
+      float: none;
+ width: 95%;
+   padding:0 10px;
+}
+
+.cosimage {
+       float: none;
+}
+.coscontent {
+    float: none;
+   width: 100%;
+}.ourservices {
+    padding: 10px 0;
+    width: 100%;
+}
+.services_left {
+       padding: 0 0 0 10px;
+}
+
+.services_right {
+            float: left;
+}
+
+.contact {
+ 
+    margin: 0 0 0 10px;
+}
+.testimonials{ padding: 0 0 0 10px;}
+.footer {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: auto;
+    margin: auto;
+    padding: 15px 0;
+    width: 100%;
+}
+
+.footer_inner {
+    margin: auto;
+   padding: 10px 0;
+    margin: auto;
+   width: 100%;
+}
+.site_links {
+       padding: 0 0 10px 15px;
+}
+
+.rcnt_posts {
+      padding: 0 0 10px 15px;
+}
+
+.cntct_us {
+    padding: 0 0 10px 15px;
+}
+
+.fotter_bottom {
+    margin: auto;
+   width: 100%;
+}
+.fotter_bottom p{   border-radius: inherit; text-align:center;   padding: 12px 0;}
+.menuu ul li{ float:none;  
+    list-style-type: none;
+    margin-left: 8px;
+    margin-right: 7px;
+    padding-bottom: 2px;
+    padding-top: 2px;}
+
+.menuu ul li:hover {
+    background:none;
+}.navigation {
+  
+    padding: 0 0 20px;
+}
+.welcome{ padding: 0 0 0 10px;}.gap {
+    padding: 10px;
+}.cont2 h1 {
+    
+    padding: 0 0 10px 10px;
+}
+     }

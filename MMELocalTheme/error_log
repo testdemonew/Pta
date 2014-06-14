@@ -1,0 +1,7 @@
+[10-Oct-2013 22:24:08 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/nextbig1/public_html/demourl.biz/MMELocalTheme/wp-content/themes/dentist/index.php on line 13
+[10-Oct-2013 22:24:16 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/nextbig1/public_html/demourl.biz/MMELocalTheme/wp-content/themes/dentist/index.php on line 13
+[10-Oct-2013 22:24:25 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/nextbig1/public_html/demourl.biz/MMELocalTheme/wp-content/themes/dentist/index.php on line 13
+[10-Oct-2013 22:25:51 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/nextbig1/public_html/demourl.biz/MMELocalTheme/wp-content/themes/dentist/index.php on line 13
+[10-Oct-2013 22:25:59 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/nextbig1/public_html/demourl.biz/MMELocalTheme/wp-content/themes/dentist/index.php on line 13
+[11-Oct-2013 06:24:43 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/nextbig1/public_html/demourl.biz/MMELocalTheme/wp-content/themes/dentist/index.php on line 13
+[07-Jun-2014 04:14:25 UTC] PHP Warning:  fopen(./cache/timthumb_int_fa0631ffc679c47de10e30ed4eca7194.timthumb.txt): failed to open stream: No such file or directory in /home2/nextbig1/public_html/demourl.biz/pta/wp-content/themes/dentist/timthumb.php on line 1965
